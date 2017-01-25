@@ -1,3 +1,3 @@
 1. Domain with the highest value for “avg_session_duration”: iweb.sba.gov
-2. Domains with more than 100 “pageviews_per_session”: all the domains had more than 100 page views per session
+2. Domains with more than 50 “pageviews_per_session”: 6 domains had 50 or more “pageviews_per_session”
 3. How many NASA domains saw at least 100,000 visits: 341 domains 
