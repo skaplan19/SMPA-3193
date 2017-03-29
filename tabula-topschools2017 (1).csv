@@ -1,0 +1,78 @@
+Rank,College/University,Size ,# of Undergraduate Alumni Volunteers
+1,University of Wisconsin-Madison,large,87
+2,University of Washington,large,73
+3,University of Minnesota,large,70
+4,University of Michigan,large,60
+5,University of Florida,large,58
+6,Colorado State University,large,54
+7,University of North Carolina at Chapel Hill,large,51
+8,The Pennsylvania State University,large,50
+9,The Ohio State University,large,49
+10,Michigan State University,large,48
+11,University of Colorado Boulder,large,47
+11,University of Oregon,large,47
+13,"University of California, Los Angeles",large,43
+13,Arizona State University,large,43
+15,"University of Maryland, C ollege Park",large,42
+15,University of Virginia,large,42
+17,James Madison University,large,41
+18,"University of California, Santa Barbara",large,40
+18,University of South Florida,large,40
+20,"University of California, Davis",large,39
+21,North Carolina State Universi ty,large,37
+21,Indiana University Bloom ington,large,37
+21,University of Illinois at Urb ana-Champaign,large,37
+21,University of Massachusetts Amherst,large,37
+25,University of Texas at Aus tin,large,36
+25,University of Texas at Aus tin,large,36
+1,American University,med,54
+2,Western Washington University,med,48
+3,The George Wshington University,med,45
+4,The College of William and Mary,med,36
+5,Humbdolt State University ,med,33
+6,Georgetown University,med,31
+7,University of Montana ,med,30
+8,University of Vermont ,med,29
+8,Emory University ,med,29
+10,Tulane University ,med,26
+11,Cornell University ,med,24
+12,College of Charleston ,med,20
+13,Boston College ,med,19
+14,Loyola University Chicago,med,18
+14,SUNY Geneseo,med,18
+14,Howard University,med,18
+14,University of Hawai'i at M_noa,med,18
+14,University of San Diego,med,18
+14,University of Wisconsin-Stevens Point,med,18
+20,Fordham University,med,17
+21,Montana State University,med,15
+21,University of Rhode Island,med,15
+21,Northwestern University,med,15
+21,Tufts University,med,15
+21,University of New Hampshire,med,15
+1,Denison University,s,16
+2,University of Mary Washington,s,13
+2,University of Puget Sound,s,13
+4,St. Mary's College of Maryl and,s,12
+4,Whitworth University,s,12
+4,Hobart and William Smith Colleges,s,12
+7,Colorado College,s,11
+7,Smith College,s,11
+7,Spelman College,s,11
+7,St. Lawrence University,s,11
+7,The Evergreen State College,s,11
+7,Oberlin College,s,11
+13,Carleton College,s,10
+13,Simmons College,s,10
+13,Bowdoin College,s,10
+13,Connecticut College,s,10
+13,Kalamazoo College,s,10
+13,Eckerd College,s,10
+13,SUNY College of Environmental Science and Forestry,s,10
+13,Wellesley College,s,10
+13,Grinnell College,s,10
+22,Hamilton College,s,9
+22,Loyola University New Orleans,s,9
+22,Whitman College,s,9
+22,College of Wooster,s,9
+22,Rice University,s,9
