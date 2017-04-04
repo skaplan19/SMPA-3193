@@ -1,27 +1,33 @@
 import csv
 import requests
+import sys
 from BeautifulSoup import BeautifulSoup
 
-url = 'https://columbian.gwu.edu/2015-2016'
-response = requests.get(url)
-html = response.content
+url = raw_input("http://m.nationals.mlb.com/player/605452/joe-ross")
+r= requests.get("http://" +url)
+data = r.text
+soup = BeautifulSoup(data)
+
+
+list_of_rows = []
+
+for year in years: 
+	print year
+	response = requests.get("http://m.nationals.mlb.com/roster/transactions/2017/04")
+	html = response.content
 
 soup = BeautifulSoup(html)
 table = soup.find('table')
 
-list_of_rows = []
-counter = 1
-for row in table.findAll('tr'):
+for row in table.findAll('tr') [1:]:
     list_of_cells = []
+    list_of_cells.append
     for cell in row.findAll('td'):
-        if cell.find('a'):
-            list_of_cells.append("https://columbian.gwu.edu/2015-2016" + cell.find('a')['href'])
-        else:
-            list_of_cells.append(cell.text)
+       list_of_cells.appendcell.text.encode
     list_of_rows.append(list_of_cells)
-    	list_of_cells.append("2010", "2011", "2012", "2013", "2014", "2015", "2016"
+    
 
-outfile = open("college.csv", "wb")
+outfile = open("transactions.csv", "wb")
 writer = csv.writer(outfile)
-writer.writerow(["department", "faculty", "sponsor", "title"])
+writer.writerow(["date", "url", "text",])
 writer.writerows(list_of_rows)
